@@ -2,17 +2,17 @@
 
 ## TODO
 
-- [ ] Choose library for Scraping
+- [✔️] Choose library for Scraping
 
   - [ ] jsdom
-  - [ ] Cheerio
+  - [✔️] Cheerio (implements as jQuery)
   - [ ] Puppeteer
   - [ ] Playwright
 
-- [ ] Choosing library for HTTP Request
+- [✔️] Choosing library for HTTP Request
 
   - [ ] Axios
-  - [ ] node-fetch
+  - [✔️] node-fetch => (Smaller install size)
   - [ ] Superagent
   - [ ] Got
 

@@ -1,0 +1,26 @@
+{
+  "name": "the-boys-wiki_scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anish-U/The-Boys-WikiScrap.git"
+  },
+  "keywords": [],
+  "author": "Ummenthala Anish <ummenthala.anish@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anish-U/The-Boys-WikiScrap/issues"
+  },
+  "homepage": "https://github.com/Anish-U/The-Boys-WikiScrap#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
