@@ -22,5 +22,6 @@
   - [✔️] Genre
   - [✔️] Cast
   - [✔️] No of Seasons
-  - [〰️] Episode Details
-  - [〰️] Music Tracks
+  - [❔] Episode Details (didn't show up as expected)
+  - [✔️] Music Tracks
+  - [✔️] Website Link (Prime)
