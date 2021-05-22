@@ -4,23 +4,23 @@
 
 - [✔️] Choose library for Scraping
 
-  - [ ] jsdom
+  - [❔] jsdom (might use later)
   - [✔️] Cheerio (implements as jQuery)
-  - [ ] Puppeteer
-  - [ ] Playwright
+  - [❌] Puppeteer (wiki ain't JS loaded)
+  - [❌] Playwright (wiki ain't JS loaded)
 
 - [✔️] Choosing library for HTTP Request
 
-  - [ ] Axios
-  - [✔️] node-fetch => (Smaller install size)
-  - [ ] Superagent
-  - [ ] Got
+  - [❔] Axios (might use later)
+  - [✔️] node-fetch (Smaller install size)
+  - [❌] Superagent
+  - [❌] Got
 
-- [ ] Things to Scrape
+- [〰️] Things to Scrape
 
-  - [ ] Logo
-  - [ ] Genre
-  - [ ] Cast
-  - [ ] No of Seasons
-  - [ ] Episode Details
-  - [ ] Music Tracks
+  - [✔️] Logo
+  - [✔️] Genre
+  - [✔️] Cast
+  - [✔️] No of Seasons
+  - [〰️] Episode Details
+  - [〰️] Music Tracks
